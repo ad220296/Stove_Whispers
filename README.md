@@ -1,4 +1,4 @@
-![Stove Whispers](images/Stove Whispers.jpg)
+
 ## Projektname: Stove Whispers
 
 ### Beschreibung:
