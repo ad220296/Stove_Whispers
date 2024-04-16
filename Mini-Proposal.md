@@ -1,8 +1,8 @@
 ## Mini-Proposal: Stove Whispers
 ### Eine Rezept-Plattform
 
-Kern Christoph
-14.04.2024
+**Kern Christoph**
+**14.04.2024**
 
 **Zielgruppe:** Hobbyköche und Kochbegeisterte aller Altersgruppen  
 
