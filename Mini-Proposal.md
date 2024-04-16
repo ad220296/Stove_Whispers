@@ -18,9 +18,8 @@ Entwicklung einer benutzerfreundlichen Website, die es ermöglicht, Rezepte zu s
 - **Teilen von Kochtipps und Tricks**
 
 ### Erwarteter Nutzen:
-- **Für Nutzer:** Inspirierende Quelle für Kochrezepte, unterstützt durch Community-Feedback.
+- **Für Nutzer:** Inspirierende Quelle für Kochrezepte.
 - **Für die Gemeinschaft:** Stärkung der Bindung durch das Teilen von Kocherfahrungen.
-- **Für den Betreiber:** Potenzielle Einnahmen durch Werbung und Partnerschaften.
 
 ### Technologische Umsetzung:
 - HTML, CSS
