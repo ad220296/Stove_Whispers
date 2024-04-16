@@ -1,8 +1,8 @@
 ## Mini-Proposal: Stove Whispers
-### Eine interaktive Rezept-Plattform
+### Eine Rezept-Plattform
 
-**Eingereicht von:** [Ihr Name]  
-**Datum:** [Aktuelles Datum]  
+**Eingereicht von:** [Kern Christoph]  
+**Datum:** [14.04.2024]  
 **Zielgruppe:** Hobbyköche und Kochbegeisterte aller Altersgruppen  
 
 ### Projektziel:
@@ -21,17 +21,6 @@ Entwicklung einer benutzerfreundlichen Website, die es ermöglicht, Rezepte zu s
 - **Für den Betreiber:** Potenzielle Einnahmen durch Werbung und Partnerschaften.
 
 ### Technologische Umsetzung:
-- **Frontend:** HTML5, CSS3, JavaScript für eine responsive Benutzeroberfläche.
-- **Backend:** PHP und MySQL für Datenmanagement.
-- **Plattform:** Optimiert für alle Gerätetypen.
+- HTML, CSS
 
-### Zeitplanung und Meilensteine:
-- **Phase 1 – Planung und Design:** 1 Monat
-- **Phase 2 – Entwicklung:** 2 Monate
-- **Phase 3 – Test und Launch:** 1 Monat
 
-### Budget:
-Die Budgetplanung wird nach Abschluss der ersten Phase detailliert vorgelegt.
-
-### Abschluss:
-Mit **Stove Whispers** zielen wir darauf ab, eine interaktive Plattform zu schaffen, die Kochbegeisterte weltweit verbindet. Diese Website soll eine wertvolle Ressource in der Küche vieler Menschen werden und ihnen helfen, ihre Kochfähigkeiten zu verbessern.
