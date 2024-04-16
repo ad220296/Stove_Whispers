@@ -1,4 +1,4 @@
-img src<Stove Whispers.jpg>
+![Stove Whispers](images/Stove Whispers.jpg)
 ## Projektname: Stove Whispers
 
 ### Beschreibung:
