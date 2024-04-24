@@ -1,4 +1,4 @@
-| ID   | Als ein...         | möchte ich...                                  | damit ich...                                        | Schätzung (Story Points)|
+**| ID   | Als ein...         | möchte ich...                                  | damit ich...                                        | Schätzung (Story Points)|**
 |------|--------------------|------------------------------------------------|-----------------------------------------------------|-------------------------|
 | US01 | Rezept-Nutzer      | Rezepte nach Kategorien durchsuchen können     | leicht Rezepte finden kann, die mich interessieren  |                         |
 | US02 | Rezept-Nutzer      | Bewertungen zu Rezepten abgeben können         | Feedback zu Rezepten hinterlassen kann              |                         |
