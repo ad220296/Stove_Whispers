@@ -1,12 +1,10 @@
-| ID   | Als ein...         | möchte ich...                                  | damit ich (wir).../ dass.....                                 | (Story Points) |
-|------|--------------------|------------------------------------------------|---------------------------------------------------------------|----------------|
-| US01 | Admin              | Das Konzept-Design der Website erstellen       | entschieden werden kann, wie die Webseite ausschauen soll     |       2        |       
-| US02 | Admin              | Code für die Main Seite schreiben              | das Fundament für die Webseite gelegt wird                    |        5       |
-| US03 | Admin              | Unterseiten erstellen                          | die Kategorien für die Kochrezepte angelgt werden können      |        5       |
-| US02 | Rezept-Nutzer      | Rezepte nach Kategorien durchsuchen können     | leicht Rezepte finden kann, die mich interessieren            |         8      |
-| US03 | Rezept-Nutzer      | Bewertungen zu Rezepten abgeben können         | Feedback zu Rezepten hinterlassen kann                        |          8     |
-| US04 | Rezept-Autor       | eigene Rezepte hochladen können                | meine Kochkreationen mit anderen teilen kann                  |           8    |
-| US05 | Neuer Benutzer     | mich auf der Plattform registrieren können     | ein persönliches Profil erstellen und nutzen kann             |            13   |
-| US06 | Rezept-Nutzer      | Kommentare zu Rezepten hinterlassen können     | meine Erfahrungen und Tipps mit anderen teilen kann           |        8       |
-| US07 | Admin              |                                                |                                                               |               |
-
+| ID   | Als ein...         | möchte ich...                                  | damit ich (wir).../ dass.....                                 | Akzeptanzkriterien                                   | Story Points |
+|------|--------------------|------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------|--------------|
+| US01 | Admin              | das Konzept-Design der Website erstellen       | entschieden werden kann, wie die Webseite ausschauen soll     | Design muss von Stakeholdern genehmigt werden        | 2            |
+| US02 | Admin              | Code für die Hauptseite schreiben              | das Fundament für die Webseite gelegt wird                    | Hauptseite muss responsive und fehlerfrei sein       | 5            |
+| US03 | Admin              | Unterseiten erstellen                          | die Kategorien für die Kochrezepte angelegt werden können     | Jede Unterseite muss eine Kategorie klar darstellen  | 5            |
+| US04 | Rezept-Nutzer      | Rezepte nach Kategorien durchsuchen können     | leicht Rezepte finden, die mich interessieren                 | Suchfunktion muss Ergebnisse nach Kategorien filtern | 8            |
+| US05 | Rezept-Nutzer      | Bewertungen zu Rezepten abgeben können         | Feedback zu Rezepten hinterlassen kann                        | Bewertungssystem muss benutzerfreundlich sein        | 8            |
+| US06 | Rezept-Autor       | eigene Rezepte hochladen können                | meine Kochkreationen mit anderen teilen kann                  | Upload-Formular muss intuitiv und sicher sein        | 8            |
+| US07 | Neuer Benutzer     | mich auf der Plattform registrieren können     | ein persönliches Profil erstellen und nutzen kann             | Registrierung muss Email-Verifikation beinhalten     | 13           |
+| US08 | Rezept-Nutzer      | Kommentare zu Rezepten hinterlassen können     | meine Erfahrungen und Tipps mit anderen teilen kann           | Kommentarsystem muss Benutzerfeedback erlauben       | 8            |
