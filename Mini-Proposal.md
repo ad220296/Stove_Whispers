@@ -1,4 +1,4 @@
-<img src="URL_DES_BILDES" alt="Beschreibung des Bildes">
+<img src="[URL_DES_BILDES](https://github.com/ad220296/Stove_Whispers/blob/main/Stove%20Whispers.jpg?raw=true)" alt="Stove Whispers">
 
 
 ## Mini-Proposal: Stove Whispers
