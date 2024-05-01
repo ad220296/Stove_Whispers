@@ -1,3 +1,6 @@
+<img src="URL_DES_BILDES" alt="Beschreibung des Bildes">
+
+
 ## Mini-Proposal: Stove Whispers
 ### Eine Rezept-Plattform
 
