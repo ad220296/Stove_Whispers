@@ -1,4 +1,4 @@
-<img src="https://github.com/ad220296/Stove_Whispers/blob/main/Time.jpg?raw=true" alt="Stove Whispers" width="300" height="200">
+<img src="https://github.com/ad220296/Stove_Whispers/blob/main/Time.jpg?raw=true" alt="Stove Whispers" width="350" height="200">
 
 
 
