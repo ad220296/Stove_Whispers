@@ -5,6 +5,6 @@
 | US03 | Admin              | Unterseiten erstellen                          | die Kategorien für die Kochrezepte angelegt werden können     | Jede Unterseite für eine Kategorie (vegan,vegetarisch,...)  | 5            |
 | US04 | Rezept-Nutzer      | Rezepte nach Kategorien durchsuchen können     | leicht Rezepte finden, die mich interessieren                 | Kategorien wie z.B.: Gerichte in unter 30 min               | 8            |
 | US05 | Rezept-Nutzer      | Bewertungen zu Rezepten abgeben können         | Feedback zu Rezepten hinterlassen kann                        | Bewertungssystem muss benutzerfreundlich sein               | 8            |
-| US06 | Rezept-Autor       | eigene Rezepte hochladen können                | meine Kochkreationen mit anderen teilen kann                  | Upload muss einfach sein und verständlich                   | 8            |
+| US06 | Rezept-Autor       | eigene Rezepte hochladen können                | meine Kochkreationen mit anderen teilen kann                  | Upload muss einfach und verständlich sein                   | 8            |
 | US07 | Neuer Benutzer     | mich auf der Plattform registrieren können     | ein persönliches Profil erstellen und nutzen kann             | Registrierung mit minimalen Schritten                       | 13           |
 | US08 | Rezept-Nutzer      | Kommentare zu Rezepten hinterlassen können     | meine Erfahrungen und Tipps mit anderen teilen kann           | für alle Benutzer möglich sein, unabhängig von Zugangsgerät | 8            |
